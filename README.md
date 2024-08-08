@@ -1,4 +1,4 @@
-![Mirage Market](src/main/webapp/pub/images/Mirage-Market.png)
+![Mirage Market]([src/main/webapp/pub/images/Mirage-Market.png](https://github.com/CodeNizam/capstone/blob/main/capstone/src/main/webapp/pub/images/Mirage-Market.png))
 
 
 # Project Overview
