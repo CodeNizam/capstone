@@ -1,3 +1,6 @@
+![Mirage Market](src/main/webapp/pub/images/mirage-market.png)
+
+
 # Project Overview
 
 ## Final Due Date: 8/14
