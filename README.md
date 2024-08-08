@@ -21,6 +21,10 @@
   - Implement a Spring Data query based on method name.
 - **Database Configuration**: Configure database settings using `application.properties`.
 
+![ER Diagram]((https://github.com/CodeNizam/capstone/blob/main/Capstone%20Database%20ER%20Diagram.png)]
+
+
+
 ## HTML / CSS / JavaScript
 
 - **Dynamic Pages**: Develop 6 dynamic pages (login page excluded).
