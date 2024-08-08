@@ -1,0 +1,15 @@
+/* Navbar style when scrolled: slightly transparent */
+.navbar.scrolled {
+    background-color: rgba(0, 0, 0, 0.8) !important; /* Slightly transparent black */
+    transition: background-color 0.3s ease-in-out; /* Smooth transition */
+}
+
+/* Ensure content below navbar is not covered */
+.content-container {
+    margin-top: 55px; /* Adjust this value if your navbar height changes */
+}
+
+/* Additional Navbar Styling (if needed) */
+.navbar {
+    z-index: 1030; /* Ensure it is on top of other content */
+}
