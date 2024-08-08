@@ -1,4 +1,4 @@
-![Mirage Market](src/main/webapp/pub/images/mirage-market.png)
+![Mirage Market](src/main/webapp/pub/images/Mirage-Market.png)
 
 
 # Project Overview
